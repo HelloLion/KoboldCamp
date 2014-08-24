@@ -1,0 +1,14 @@
+item_tool_kobold
+
+[OBJECT:ITEM]
+
+[ITEM_TOOL:ITEM_TOOL_CART]
+[NAME:hand-cart:hand-carts]
+[VALUE:30]
+[WOOD_MAT]
+[TOOL_USE:HEAVY_OBJECT_HAULING]
+[FURNITURE]
+[TILE:153]
+[SIZE:30000]
+[MATERIAL_SIZE:6]
+[CONTAINER_CAPACITY:50000] *half as good as a Wheelbarrow*

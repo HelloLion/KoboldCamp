@@ -1,0 +1,18 @@
+item_ammo_kobold
+
+[OBJECT:ITEM]
+
+[ITEM_AMMO:ITEM_AMMO_SLING_BULLET]
+[NAME:sling bullet:sling bullets]
+[CLASS:SLING]
+[SIZE:10]
+[ATTACK:BLUNT:10:100:impact:impacts:NO_SUB:2000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+
+[ITEM_AMMO:ITEM_AMMO_THROWING_SPEAR]
+[NAME:throwing spear:throwing spears]
+[CLASS:SPEAR]
+[SIZE:200]
+[ATTACK:EDGE:2:2000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+
