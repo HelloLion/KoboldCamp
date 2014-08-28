@@ -302,7 +302,9 @@ A few kobolds simply like to call themselves siege engineers to be cool.
 
 ----4. Guide to the custom buildings and reactions.      (0040)----
 
-Training Grounds - Used to train crutch walking, weaponry, and in the case of the training grounds, a few other skills.
+Training Grounds - Used to train weapon skills.
+
+Basketry - used to create mundange furniture items (bins, chests, chairs, cabinets, tables) from Wicker which is harvested from a variety of farmable crops (ropereed, longland grass, pig tails, cave wheat)
 
 Bushcraft Workshop - various wood crafts/items, bone crafts (including weapons), and other primitive tools/items
 
