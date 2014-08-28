@@ -1,8 +1,8 @@
 ---------------------------------------
 
-Kobold Camp ver 1.6
-For DF 40.09
-Most recent update: 08/22/2014
+Kobold Camp ver 1.61
+For DF 40.10
+Most recent update: 08/26/2014
 
 -----------TABLE OF CONTENTS----------- 
 
@@ -62,7 +62,10 @@ The following vanilla files have been changed
 -Changed the readme to be the format that git/github like (README.md) and cleaned up the readme also
 -added some leather armor reactions, moved the fur bed reaction, to Bushcraft Workshop
 -added bone cages and statues to Bushcraft workshop
--continuing to tweak on entity_itemthief (Kobold Trading partners)
+-continuing to tweak on entity_itemthief (aka Kobold Trading partners) [still needs work and testing]
+-added the ability to extract blood and brew it into alcohol [CURENTLY BROKEN] (idea from Masterwork DF by Meph)
+-made weapon stones more effective (thanks, AJC!)
+-made vermin edible and added wickerworking [CURENTLY BROKEN] (thanks to milo christiansen, creator of Rubble)
 
 
 
