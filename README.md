@@ -2,7 +2,7 @@
 
 Kobold Camp ver 1.61
 For DF 40.10
-Most recent update: 08/26/2014
+Most recent update: 08/28/2014
 
 -----------TABLE OF CONTENTS----------- 
 
@@ -58,7 +58,7 @@ The following vanilla files have been changed
 
 -----------3. Changelog        (0030)-----------
 
----ver 1.61 (in progress)---
+---ver 1.61---
 -Changed the readme to be the format that git/github like (README.md) and cleaned up the readme also
 -added some leather armor reactions, moved the fur bed reaction, to Bushcraft Workshop
 -added bone cages and statues to Bushcraft workshop
