@@ -63,9 +63,9 @@ The following vanilla files have been changed
 -added some leather armor reactions, moved the fur bed reaction, to Bushcraft Workshop
 -added bone cages and statues to Bushcraft workshop
 -continuing to tweak on entity_itemthief (aka Kobold Trading partners) [still needs work and testing]
--added the ability to extract blood and brew it into alcohol [CURENTLY BROKEN] (idea from Masterwork DF by Meph)
+-added the ability to extract blood and brew it into alcohol (idea from Masterwork DF by Meph)
 -made weapon stones more effective (thanks, AJC!)
--made vermin edible and added wickerworking [CURENTLY BROKEN] (thanks to milo christiansen, creator of Rubble)
+-made vermin edible and added wickerworking (thanks to milo christiansen, creator of Rubble)
 
 
 
